@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>pic/alpha.png</file>
+        <file>pic/TicTac.png</file>
+        <file>pic/Mac.png</file>
+        <file>pic/Riyad.png</file>
+        <file>pic/Tamim.png</file>
+        <file>pic/Rafi.png</file>
+        <file>pic/Shorna.png</file>
+        <file>pic/Chess.png</file>
+        <file>pic/unnamed.png</file>
+        <file>pic/puzzle.png</file>
+        <file>pic/UUUU.png</file>
+    </qresource>
+</RCC>
