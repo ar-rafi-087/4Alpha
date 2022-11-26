@@ -12,15 +12,6 @@ This is a project of two interactive games in one application. “Tic-Tac-Toe" i
 - [@ Riad Mahamud](https://github.com/sorna-094)
 - [@ Md. Tamim Iqbal](https://github.com/skorp1onXD)
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-
-
-
 ## Features
 
 - Login
